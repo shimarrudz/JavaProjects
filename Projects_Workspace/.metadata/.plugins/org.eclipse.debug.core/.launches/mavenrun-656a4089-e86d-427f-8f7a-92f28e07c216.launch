@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.m2e.Maven2LaunchConfigurationType">
+    <booleanAttribute key="M2_BATCH" value="false"/>
+    <stringAttribute key="M2_GOALS" value="-U archetype:generate"/>
+    <listAttribute key="M2_PROPERTIES">
+        <listEntry value="archetypeGroupId=fr.lteconsulting.archetypes"/>
+        <listEntry value="archetypeArtifactId=quickstart-java8"/>
+        <listEntry value="archetypeVersion=1.0"/>
+        <listEntry value="groupId=MavenAPII"/>
+        <listEntry value="artifactId=MavenAPII"/>
+        <listEntry value="version=0.0.1-SNAPSHOT"/>
+        <listEntry value="package=MavenAPII.MavenAPII"/>
+        <listEntry value="outputDirectory=C:\Users\Shima\eclipse-workspace"/>
+    </listAttribute>
+    <booleanAttribute key="M2_SAVE_BEFORE_LAUNCH" value="false"/>
+    <booleanAttribute key="org.eclipse.debug.ui.private" value="true"/>
+    <stringAttribute key="org.eclipse.jdt.launching.WORKING_DIRECTORY" value="C:\Users\Shima\AppData\Local\Temp\m2e-archetypeGenerator3632263265621271778"/>
+</launchConfiguration>

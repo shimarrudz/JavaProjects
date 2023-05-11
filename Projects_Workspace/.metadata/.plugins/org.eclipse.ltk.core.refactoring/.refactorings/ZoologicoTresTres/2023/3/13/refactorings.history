@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;br.com.zoologico.conexao&apos; to &apos;MontadoraCinco/src&apos;&#x0D;&#x0A;- Original project: &apos;ZoologicoTresTres&apos;&#x0D;&#x0A;- Destination element: &apos;MontadoraCinco/src&apos;&#x0D;&#x0A;- Original element: &apos;ZoologicoTresTres/src/br.com.zoologico.conexao&apos;" description="Copy package" destination="=MontadoraCinco/src" element1="/src&lt;br.com.zoologico.conexao" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1679958863822" version="1.0"/>
+</session>
